@@ -1,0 +1,17 @@
+discord
+aiohttp==3.7.4
+async-timeout
+asyncio
+attrs
+certifi
+chardet
+charset-normalizer
+idna
+multidict
+pychalk
+python-dotenv
+requests
+six
+typing_extensions
+urllib3
+yarl
